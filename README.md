@@ -14,8 +14,7 @@ I've been learning code for 4 years Created some basic games mods
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [himanshuparate601@gmail.com](mailto:himanshuparate601@gmail.com)
-* 🧠  I'm learning Cybersecurity
-* ⚡  Wannabe Red Teamer
+
 
 ### Skills
 
